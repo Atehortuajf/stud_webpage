@@ -1,0 +1,28 @@
+.why-choose-us {
+    padding: 40px 20px;
+    background-color: #fff; /* White background for a clean look */
+    text-align: center; /* Center the text */
+}
+
+.why-choose-us h2 {
+    color: #1E90FF; /* Keep the color consistent with the WelcomeSection for harmony */
+    font-size: 1.75rem;
+    margin-bottom: 20px;
+}
+
+.why-choose-us ul {
+    list-style-type: none; /* No bullets for a cleaner look */
+    padding: 0;
+}
+
+.why-choose-us li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.why-choose-us li::before {
+    content: "✓";
+    color: #1E90FF; /* A splash of color and visual interest */
+    margin-right: 8px;
+}

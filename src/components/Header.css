@@ -1,0 +1,11 @@
+.site-header {
+    background-color: #333; /* Consistent with the nav bar for a unified look */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.site-header h1 {
+    margin: 0;
+    font-size: 2rem; /* Responsive font size */
+}

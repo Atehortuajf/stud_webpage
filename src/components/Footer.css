@@ -1,0 +1,14 @@
+.site-footer {
+    background-color: #002145; /* MIT's dark blue */
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.site-footer p {
+    margin: 5px 0; /* Small margin for separation */
+    font-size: 14px;
+}

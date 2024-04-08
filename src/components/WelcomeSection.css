@@ -1,0 +1,19 @@
+.welcome-section {
+    padding: 40px 20px;
+    background-color: #f0f0f0; /* Light background to distinguish this section */
+    color: #333; /* Dark text for contrast */
+    text-align: center; /* Center the text */
+}
+
+.welcome-section h2 {
+    font-size: 1.75rem; /* Slightly larger font size for the section heading */
+    color: #1E90FF; /* A bright, welcoming color */
+    margin-bottom: 20px;
+}
+
+.welcome-section p {
+    font-size: 1rem;
+    line-height: 1.5; /* Improved readability */
+    max-width: 800px; /* Optimal line length for reading */
+    margin: auto; /* Center the text block if the view is wider */
+}
